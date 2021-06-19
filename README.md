@@ -1,4 +1,4 @@
-# Perspective Transform Assistant  
+# Perspective Transform Assistant(投影变换助手)
 一款基于OpenCV的适用于面板缺陷的投影变换软件，功能如下：
 - 读取缺陷采样图片
 - 缺陷标注（支持圆形/多边形绘制）
